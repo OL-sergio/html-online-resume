@@ -2,11 +2,6 @@
 
 This repository contains a simple HTML resume, hosted using GitHub Pages.
 
-## Live Demo
-
-You can view the resume here:  
-[html-online-resume on GitHub Pages](https://ol-sergio.github.io/html-online-resume/)
-
 ## Project Structure
 
 - `index.html` – main resume page
